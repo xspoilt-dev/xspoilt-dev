@@ -1,4 +1,4 @@
-<h2 align="center"><b>socials</b></h2>
+<h2 align="center"><b>Socials</b></h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/peaky_xd) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
