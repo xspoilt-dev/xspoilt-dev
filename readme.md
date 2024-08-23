@@ -8,4 +8,3 @@
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=team-peaky-xd alt=team-peaky-xd /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=team-peaky-xd&layout=compact&theme=dark)](https://github.com/team-peaky-xd/team-peaky-xd)
