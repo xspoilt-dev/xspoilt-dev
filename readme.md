@@ -23,32 +23,6 @@
   🎯 Mastering low-level programming concepts
 </p>
 
-<!-- Projects Section with Custom Styling -->
-<h2 align="center">🛠️ Featured Projects</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌟 Project 1</h3>
-        <div align="center">
-          <a href="# target="_blank">
-            <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" alt="Project 1"/>
-          </a>
-          <p><strong>Automation</strong> - Web and App Automation</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💻 Project 2</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" alt="Project 2"/>
-          </a>
-          <p><strong>GUI</strong> - Making Some GUI Apps Using PyQt5</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
