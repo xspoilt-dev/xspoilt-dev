@@ -74,11 +74,9 @@
 <!-- Fun Facts & Top Langs -->
 <h2 align="center">⚡ Fun Facts</h2>
 <p align="center">
-  🎮 Gaming enthusiast | 💻 Code artist | 🌱 Always learning
+  💻 Code artist | 🌱 Always learning
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xspoilt-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+
 
 <!-- Footer -->
 <div align="center">
