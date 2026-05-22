@@ -18,7 +18,7 @@
 
 <!-- Github Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xspoilt-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=tokyonight&fontFamily=Baloo%20Bhaina%202&preferLogin=false">    <img  alt="xspoilt-dev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/xspoilt-dev?cardType=octocat&theme=tokyonight&fontFamily=Baloo%20Bhaina%202&preferLogin=false" />  </a>
 </div>
 
 <br/>
