@@ -18,7 +18,9 @@
 
 <!-- Github Stats -->
 <div align="center">
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false">    <img  alt="xspoilt-dev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/xspoilt-dev?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false" />  </a>
+       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&fontFamily=42dot%20Sans&preferLogin=false">
+    <img  alt="xspoilt-dev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/xspoilt-dev?cardType=github&theme=nightowl&fontFamily=42dot%20Sans&preferLogin=false" />
+  </a>
 </div>
 
 <br/>
