@@ -18,9 +18,10 @@
 
 <!-- Github Stats -->
 <div align="center">
-       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&fontFamily=42dot%20Sans&preferLogin=false">
-    <img  alt="xspoilt-dev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/xspoilt-dev?cardType=github&theme=nightowl&fontFamily=42dot%20Sans&preferLogin=false" />
+       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=shades-of-purple&fontFamily=42dot%20Sans&showIcons=false&preferLogin=false">
+    <img  alt="brunobritodev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?cardType=level-alternate&theme=shades-of-purple&fontFamily=42dot%20Sans&showIcons=false&preferLogin=false" />
   </a>
+
 </div>
 
 <br/>
