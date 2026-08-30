@@ -45,11 +45,6 @@
 </p>
 
 <!-- GitHub Contributions & Activity -->
-<h2 align="center">📈 GitHub Commits & Activity</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xspoilt-dev&bg_color=0D1117&color=bc52ee&line=3776AB&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</div>
-
 <br/>
 
 <!-- Social Media -->
